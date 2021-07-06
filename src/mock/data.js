@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'about.png',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
@@ -28,8 +28,8 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'kiwi-roadtrip.png',
+    title: 'Kiwi Roadtrip',
     info: '',
     info2: '',
     url: '',
@@ -37,8 +37,8 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'fakify-live.png',
+    title: 'Crown Clothing',
     info: '',
     info2: '',
     url: '',
@@ -46,8 +46,8 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'devPlace.png',
+    title: 'DevPlace',
     info: '',
     info2: '',
     url: '',
@@ -67,23 +67,13 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
-    {
-      id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/john-aupouri-963669198/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/john-w-aupouri',
     },
   ],
 };
