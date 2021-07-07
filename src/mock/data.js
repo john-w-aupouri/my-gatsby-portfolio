@@ -49,8 +49,9 @@ export const projectsData = [
     id: nanoid(),
     img: 'devPlace.png',
     title: 'DevPlace',
-    info: 'A social media app built using the MERN-Stack.',
-    info2: 'A place for developers.',
+    info: 'A social media app built using the MERN-Stack. Users can create a profile, post comments or start discussions.',
+    info2:
+      'If user has a github then they will also have the option to display their most recent repositories. A place for developers.',
     url: 'https://dev-place.herokuapp.com/',
     repo: 'https://github.com/john-w-aupouri/devPlace', // if no repo, the button will not show up
   },
