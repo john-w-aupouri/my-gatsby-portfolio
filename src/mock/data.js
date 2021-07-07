@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'portrait.jpg',
+  img: 'about.png',
   paragraphOne: 'My name is John Wirihana Aupouri and I am a full-stack web developer.',
   paragraphTwo:
     'I have experience using such technologies as Html, Css, Javascript, React, Express, MongoDB, Photoshop, Blender, and Unity C#.',
