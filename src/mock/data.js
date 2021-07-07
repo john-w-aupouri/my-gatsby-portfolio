@@ -10,8 +10,8 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: 'John',
-  subtitle: '',
+  name: 'John Aupouri',
+  subtitle: 'and I design difference',
   cta: '',
 };
 
@@ -19,8 +19,9 @@ export const heroData = {
 export const aboutData = {
   img: 'portrait.jpg',
   paragraphOne: 'My name is John Wirihana Aupouri and I am a full-stack web developer.',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphTwo:
+    'I have experience using such technologies as Html, Css, Javascript, React, Express, MongoDB, Photoshop, Blender, and Unity C#.',
+  paragraphThree: 'I am also a Wordpress developer.',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
